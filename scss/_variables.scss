@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Savoye";
+  src: url("../fonts/savoye/savoye.eot");
+  src: url("../fonts/savoye/savoye.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/savoye/savoye.woff2") format("woff2"),
+    url("../fonts/savoye/savoye.woff") format("woff"),
+    url("../fonts/savoye/savoye.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+$data-color: #ff7479;
+$text-color: #2b2a2a;
+$title-color: #fff;
+
+$b-size: 1px;
+
+$blog-ff: "Savoye", serif;
+$text-ff: "Times New Roman", serif;
